@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import numpy as np
 
 file_name = '石药.xlsx'
 file_path = os.path.join(os.path.expanduser("~"), 'Desktop', file_name)
